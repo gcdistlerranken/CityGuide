@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="textViewMainTitle">St. Louis City Guide</string>
+    <string name="textViewAttractions">Attractions</string>
+    <string name="buttonForTheArch">The Arch</string>
+    <string name="buttonForForestPark">Forest Park</string>
+    <string name="buttonForTheLoop">The Loop</string>
+    <string name="buttonForTheCityMuseum">The City Museum</string>
+    <string name="textViewDining">Dining</string>
+    <string name="buttonForTedDrewes">Ted Drewes</string>
+    <string name="buttonForTheHill">The Hill</string>
+    <string name="buttonForMomsDeli">Mom\'s Deli</string>
+    <string name="textViewArchTitle">The Gateway Arch</string>
+    <string name="buttonReturn">Return</string>
+    <string name="textViewForestParkTitle">Forest Park</string>
+    <string name="textViewLoopTitle">The Loop</string>
+    <string name="textViewCityMuseumTitle">The City Museum</string>
+    <string name="textViewTedDrewesTitle">Ted Drewes</string>
+    <string name="textViewTheHillTitle">The Hill</string>
+    <string name="textViewMomsDeliTitle">Mom\'s Deli</string>
+</resources>
