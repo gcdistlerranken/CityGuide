@@ -4,18 +4,68 @@
     <string name="textViewAttractions">Attractions</string>
     <string name="buttonForTheArch">The Arch</string>
     <string name="buttonForForestPark">Forest Park</string>
-    <string name="buttonForTheLoop">The Loop</string>
+    <string name="buttonForTheLoop">The Delmar Loop</string>
     <string name="buttonForTheCityMuseum">The City Museum</string>
     <string name="textViewDining">Dining</string>
     <string name="buttonForTedDrewes">Ted Drewes</string>
     <string name="buttonForTheHill">The Hill</string>
     <string name="buttonForMomsDeli">Mom\'s Deli</string>
+
     <string name="textViewArchTitle">The Gateway Arch</string>
-    <string name="buttonReturn">Return</string>
     <string name="textViewForestParkTitle">Forest Park</string>
-    <string name="textViewLoopTitle">The Loop</string>
+    <string name="textViewLoopTitle">The Delmar Loop</string>
     <string name="textViewCityMuseumTitle">The City Museum</string>
     <string name="textViewTedDrewesTitle">Ted Drewes</string>
     <string name="textViewTheHillTitle">The Hill</string>
     <string name="textViewMomsDeliTitle">Mom\'s Deli</string>
+
+    <string name="textViewHighlights">Highlights</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonReturn">Return</string>
+
+    <string name="linkWebsiteArch">Click here to visit the official Gateway Arch website</string>
+    <string name="linkWebsiteForestPark">Click here to visit the official Forest Park website</string>
+    <string name="linkWebsiteDelmarLoop">Click here to visit the official Delmar Loop website</string>
+    <string name="linkWebsiteCityMuseum">Click here to visit the official City Museum website</string>
+    <string name="linkWebsiteTedDrewes">Click here to visit the official Ted Drewes website</string>
+    <string name="linkWebsiteTheHill">Click here to visit The Hill\'s official website</string>
+    <string name="linkWebsiteMomsDeli">Click here to visit the official Mom\'s Deli website</string>
+
+    <string name="archHighlights">      Founded by the National Park Service in 1935 &amp; was\n
+                                        \t\tcompleted in 1965\n
+                                        Tram Ride - $12\n
+                                        Museum at the Gateway Arch - Free\n
+                                        Helicopter Tours - $43</string>
+    <string name="forestParkHighlights">Saint Louis Zoo - Free Admission\n
+                                        \t\t\tRide the Train, Watch the Sea Lion Show, Feed the\n
+                                        \t\t\tStingrays, or Visit the Children\'s Zoo\n
+                                        The Muny - Ticket Prices Vary ($0 to $110)\n
+                                        Boathouse Paddle Co. - Prices Vary (AVG. $20 per hour)</string>
+    <string name="delmarLoopHighlights"> Loop Trolley - $5 All Day Pass\n
+                                        Fitz\'s - Known for their Root Beer &amp; microbrewed soda\n
+                                        The Pageant - St. Louis\' premiere concert nightclub\n
+                                        Blueberry Hill Resturant &amp; Music Club \n
+                                        Tivoli Theatre - Features independent and foreign films</string>
+    <string name="cityMuseumHighlights">A mixture of playground, funhouse, and architectural marvel!\n
+                                        \t\tSingle Day Admission - $16\n
+                                        \t\tMuseum + Roof Admission - $22\n
+                                        \t\tGroups of 15 or More - $11 per person</string>
+    <string name="tedDrewesHighlights"> Selling Frozen Custard for over 80 years\n
+                                        Popular Menu Items: (AVG. $5)\n
+                                        \t\t\tCardinal Sin (Tart Cherries &amp; Hot Fudge)\n
+                                        \t\t\tCookie Sandwich (With Dad\'s Oatmeal Cookies)\n
+                                        \t\t\tTurtle (Hot Fudge, Caramel, &amp; Pecans)</string>
+    <string name="theHillHighlights">   Established in 1970, The Hill includes some of the\n
+                                        finest Italian restaurants in the country\n
+                                        Popular Restaurants:\n
+                                        \t\t\tCharlie Gitto\'s - Prices Vary (AVG. $20 to $30)\n
+                                        \t\t\tZia\'s - Prices Vary (AVG. $11 to $30)\n
+                                        \t\t\tGuido\'s - Prices Vary (AVG. $11 to $30)</string>
+    <string name="momsDeliHighlights">  Family Owned &amp; Operated since 1977\n
+                                        Popular Menu Items: (AVG. $7)\n
+                                        \t\t\tDad\'s Special (Hot Ham/Beef Dipped in Gravy)\n
+                                        \t\t\tPoor Boy (Ham, Salami, Mortadella, Cheese)\n
+                                        \t\t\tMom\'s Special (Turkey, Ham, Roast Beef, \n
+                                        \t\t\t\t\t\tMunchee Cheese, and Homemade 1000 Island)</string>
+
 </resources>
