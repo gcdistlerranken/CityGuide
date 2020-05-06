@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E0AA7B"
-    tools:context=".TheHillActivity">
+    tools:context="com.google.distlergrace.cityguide.TheHillActivity">
 
     <TextView
         android:id="@+id/textViewTheHillTitle"

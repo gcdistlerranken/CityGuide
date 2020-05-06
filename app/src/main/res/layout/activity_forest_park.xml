@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E0AA7B"
-    tools:context=".ForestParkActivity">
+    tools:context="com.google.distlergrace.cityguide.ForestParkActivity">
 
     <TextView
         android:id="@+id/textViewForestParkTitle"

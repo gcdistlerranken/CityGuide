@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E0AA7B"
-    tools:context=".MomsDeliActivity">
+    tools:context="com.google.distlergrace.cityguide.MomsDeliActivity">
 
     <TextView
         android:id="@+id/textViewMomsDeliTitle"
